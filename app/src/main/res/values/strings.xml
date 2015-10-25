@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassPlanner</string>
+    <string name="classes_taken">Select Classes Taken</string>
+    <string name="lower">Lower       Division</string>
+    <string name="upper">Upper Division</string>
+    <string name="TE">Technical Elective</string>
+    <string name="honor">Honor</string>
+    <string name="action_settings">Settings</string>
+</resources>
