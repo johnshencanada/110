@@ -13,15 +13,13 @@
         android:layout_height="wrap_content"
         android:padding="15dp"
         android:gravity="center"
-
         android:autoText="true"
         android:textSize="20dp"
         android:textStyle="bold"
-
         />
     <TextView
         android:id="@+id/lower"
-        android:text="@string/lower"
+        android:text="List All Classes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="25dp"
@@ -32,10 +30,11 @@
         android:textStyle="bold"
         android:textColor="#FFFFFFFF"
         android:layout_margin="5dp"
+        android:onClick="classesTaken"
         />
     <TextView
         android:id="@+id/upper"
-        android:text="@string/upper"
+        android:text="Quarter Calender"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="25dp"
@@ -44,41 +43,10 @@
         android:textSize="20dp"
         android:textStyle="bold"
         android:textColor="#FFFFFFFF"
-        android:layout_margin="5dp"/>
-    <TextView
-        android:id="@+id/TE"
-        android:text="@string/TE"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="25dp"
-        android:gravity="center"
-        android:textSize="20dp"
-        android:background="#EBAE23"
-        android:textStyle="bold"
-        android:textColor="#FFFFFFFF"
-        android:layout_margin="5dp"/>
-    <TextView
-        android:id="@+id/honor"
-        android:text="@string/honor"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="25dp"
-        android:gravity="center"
-        android:textSize="20dp"
-        android:background="#016691"
-        android:textStyle="bold"
-        android:textColor="#FFFFFFFF"
-        android:layout_margin="5dp"/>
-    <Button
-        android:id="@+id/done"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Done"
-        android:gravity="center"
-        android:layout_margin="20dp"
+        android:layout_margin="5dp"
+        android:onClick="calenderPlanner"
+        />
 
-        android:layout_gravity="center_horizontal"
-        android:textStyle="bold" />
 
 </LinearLayout>
-<!-- From: file:/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/Users/john/Documents/CSE110.1/app/src/main/res/layout/activity_main.xml -->

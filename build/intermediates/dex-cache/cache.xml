@@ -2,32 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jar="/Users/john/Documents/CSE110.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/pre-dexed/debug/classes-2ab5c89d967e75bdec933186355825bc22f7ae93.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/john/Documents/CSE110.1/app/build/intermediates/pre-dexed/debug/classes-25480cd508e3b8475f89a5297b46b2f0f84e5c47.jar" />
     </item>
     <item
-        jar="/Users/AnnChih/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jar="/Users/john/Documents/CSE110.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-47c0ead551ce9d616967573e2021a6e741689765.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/john/Documents/CSE110.1/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d1d3b99fa94551b7329e98f2b3c81874f3d2c58e.jar" />
     </item>
     <item
-        jar="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jar="/Users/john/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/pre-dexed/debug/classes-2001a2047ae07e46c0c5734e705674cc693b0b72.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/john/Documents/CSE110.1/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-fea97b4e3071c0d986aad1f697253d4e8f027de3.jar" />
     </item>
     <item
-        jar="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jar="/Users/john/Documents/CSE110.1/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="/Users/AnnChih/AndroidStudioProjects/ClassPlanner/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6a8e55adbbdb5c720f4f55e3fcc4daa27b1a630f.jar" />
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/john/Documents/CSE110.1/app/build/intermediates/pre-dexed/debug/classes-0e6c6f2a781ec1d7727c4446a880ed6878bcbe3e.jar" />
+    </item>
+    <item
+        jar="/Users/john/Documents/CSE110.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/john/Documents/CSE110.1/app/build/intermediates/pre-dexed/debug/classes-ce64bf097d139af5c43be5ed06dacf19d22ef38d.jar" />
     </item>
 
 </items>
